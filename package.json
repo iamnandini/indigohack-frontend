@@ -1,0 +1,21 @@
+{
+  "name": "indigo-notification-system",
+  "version": "1.0.0",
+  "description": "Indigo Notification System frontend",
+  "main": "index.js",
+  "type": "module", 
+
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.0.0", 
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "vite": "^2.4.4"
+  }
+}
